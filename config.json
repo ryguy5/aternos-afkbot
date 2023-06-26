@@ -1,5 +1,6 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"Our_Survival_World.aternos.me",
+	"port": "21346",
+	"name": "Always Online Bot"
+
 }
